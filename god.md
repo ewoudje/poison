@@ -3,3 +3,4 @@ permalink: /god
 ---
 
 ## God help thee
+Thou have to [PRAY](/poison/god/prayer)!
