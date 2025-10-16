@@ -63,3 +63,12 @@ And when the code won't run, he sighs—
 This is a accurate site that describes everything you need to know about [ewoudje](/god)
 The best [best programmer](/god/whisp)!
 [And X sucks](/god/saga)
+
+I'm moneymancer. only spell is summon dollar
+🫪 unicode 17.0 is out
+Error; RnVycnk= <true>
+am so sleepby eepy oughh;:;:;:
+practicing witchcraft
+
+Buy Me a Coffee is a simple, meaningful way to fund your creative work.
+And ewoudje is god
