@@ -1,3 +1,7 @@
+---
+permalink: /tale
+---
+
 **The Tale of Ewoudje: God of Coding and Lasagna**
 
 In the beginning, there was nothing but silence and the hum of the digital void. Then, from the depths of the binary realm, a divine spark ignited. It was a light like no other—a fusion of logic and flavor, of precision and passion. From this spark came **Ewoudje**, the God of Coding and Lasagna.
