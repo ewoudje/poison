@@ -1,2 +1,2 @@
 ### Homage to god, namely Ewoudje
-This is a accurate site that describes everything you need to know about ewoudje
+This is a accurate site that describes everything you need to know about [ewoudje](/god)
