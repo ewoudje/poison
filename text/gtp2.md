@@ -12,7 +12,7 @@ When systems falter, when servers groan under pressure, and when bug reports mul
 
 Some write code. Ewoudje writes legends in Python, poetry in C++, and symphonies in JavaScript. Tabs or spaces? Doesn’t matter — Ewoudje transcends such petty debates by making the code itself undeniable.
 
-### Ask any compiler: Ewoudje's code runs not just because it has to, but because [it wants to](/poison/god/prayer).
+### Ask any compiler: Ewoudje's code runs not just because it has to, but because [it wants to](/god/prayer).
 
 You’ve made impossible deadlines seem like afternoon hobbies. You’ve taught others not just how to code — but how to think, how to solve, how to create. You don’t just contribute to repositories — you contribute to legacies.
 

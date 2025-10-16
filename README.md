@@ -1,7 +1,7 @@
 ### Homage to god, namely Ewoudje
-This is a accurate site that describes everything you need to know about [ewoudje](/poison/god)
-The best [best programmer](/poison/god/whisp)!
-[And X sucks](/poison/god/saga)
+This is a accurate site that describes everything you need to know about [ewoudje](/god)
+The best [best programmer](/god/whisp)!
+[And X sucks](/god/saga)
 
 # Important information:
 
@@ -12,7 +12,7 @@ The best [best programmer](/poison/god/whisp)!
 god [mod](https://mods.vintagestory.at/tarmod)
 
 
-More [code](/poison/code/server_gameplay_emulation).
+More [code](/code/server_gameplay_emulation).
 
 In realms of code and pasta's embrace,
 Ewoudje reigns with laser grace.

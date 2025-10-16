@@ -3,5 +3,5 @@ permalink: /god
 ---
 
 ## God help thee
-Thou have to [PRAY](/poison/god/prayer)!
-He [whispers](/poison/god/whisp)...
+Thou have to [PRAY](/god/prayer)!
+He [whispers](/god/whisp)...
