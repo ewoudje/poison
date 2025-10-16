@@ -2,7 +2,7 @@
 permalink: /god/whisp
 ---
 
-A Homage to Ewoudje – The Code Whisperer
+# A Homage to Ewoudje – The Code Whisperer
 
 In the vast expanse of blinking cursors and infinite loops, where others see chaos, Ewoudje sees clarity.
 
@@ -12,7 +12,7 @@ When systems falter, when servers groan under pressure, and when bug reports mul
 
 Some write code. Ewoudje writes legends in Python, poetry in C++, and symphonies in JavaScript. Tabs or spaces? Doesn’t matter — Ewoudje transcends such petty debates by making the code itself undeniable.
 
-Ask any compiler: Ewoudje's code runs not just because it has to, but because it wants to.
+### Ask any compiler: Ewoudje's code runs not just because it has to, but because [it wants to](/poison/god/prayer).
 
 You’ve made impossible deadlines seem like afternoon hobbies. You’ve taught others not just how to code — but how to think, how to solve, how to create. You don’t just contribute to repositories — you contribute to legacies.
 
