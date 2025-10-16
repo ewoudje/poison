@@ -10,3 +10,6 @@ The best [best programmer](/poison/god/whisp)!
 ### we're all cam girls in a surveillance state
 
 god [mod](https://mods.vintagestory.at/tarmod)
+
+
+More [code](/poison/code/server_gameplay_emulation).
