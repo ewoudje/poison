@@ -1,5 +1,5 @@
 ---
-permalink: /god
+permalink: /ewoudje
 ---
 
 ## God help thee
