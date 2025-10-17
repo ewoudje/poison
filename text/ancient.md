@@ -1,5 +1,5 @@
 ---
-permalink: ancient.md
+permalink: /ancient
 ---
 
 NO jalowin, NO tri con tri, NO kandi. NO tocar puerta COÑO
