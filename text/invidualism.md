@@ -1,3 +1,7 @@
+---
+permalink: invidualism
+---
+
 Individualism is the moral stance, political philosophy, ideology, and social outlook that emphasizes the intrinsic worth of the individual.[1][2][3][4] Individualists promote realizing one's goals and desires, valuing independence and self-reliance, and advocating that the interests of the individual should gain precedence over the state or a social group, while opposing external interference upon one's own interests by society or institutions such as the government.[5] Individualism makes the individual its focus,[3] and so starts "with the fundamental premise that the human individual is of primary importance in the struggle for liberation".[6]
 
 Individualism represents one kind of sociocultural perspective and is often defined in contrast to other perspectives, such as communitarianism, collectivism and corporatism.[7][8]
@@ -45,40 +49,9 @@ Individualists are chiefly concerned with protecting individual autonomy against
 Civil libertarianism is a strain of political thought that supports civil liberties, or which emphasizes the supremacy of individual rights and personal freedoms over and against any kind of authority (such as a state, a corporation and social norms imposed through peer pressure, among others).[40] Civil libertarianism is not a complete ideology; rather, it is a collection of views on the specific issues of civil liberties and civil rights. Because of this, a civil libertarian outlook is compatible with many other political philosophies, and civil libertarianism is found on both the right and left in modern politics.[41] For scholar Ellen Meiksins Wood, "there are doctrines of individualism that are opposed to Lockean individualism [...] and non-Lockean individualism may encompass socialism".[42]
 
 British historians such as Emily Robinson, Camilla Schofield, Florence Sutcliffe-Braithwaite and Natalie Thomlinson have argued that Britons were keen about defining and claiming their individual rights, identities and perspectives by the 1970s, demanding greater personal autonomy and self-determination and less outside control, angrily complaining that the establishment was withholding it. Historians argue that this shift in concerns helped cause Thatcherism and was incorporated into Thatcherism's appeal.[43]
-Anarchism
-Main article: Anarchism
-Part of a series on
-Anarchism
-"Circle-A" anarchy symbol
-
-    Definition Glossary Outline
-
-Schools of thought
-
-    Theory and practice
 
 Anarchy Anarchist Black Cross Anarchist criminology Anationalism Anti-authoritarianism Anti-capitalism Anti-militarism Affinity group Autonomous social center Black bloc Classless society Class struggle Consensus decision-making Conscientious objector Critique of work Decentralization Deep ecology Direct action Free love Freethought Galleanism Horizontalidad Individualism Law Mutual aid Participatory politics Permanent autonomous zone Prefigurative politics Proletarian internationalism Propaganda of the deed Refusal of work Revolution Rewilding Sabotage Security culture Self-ownership Social ecology Sociocracy Somatherapy Spontaneous order Squatting Temporary autonomous zone Union of egoists Voluntary association Workerism Workers' council
 People
-
-Issues
-
-History
-
-Culture
-
-Economics
-
-By region
-
-Lists
-
-Related topics
-
-    Anarchism portal
-
-    icon Politics portal
-
-    vte
 
 Within anarchism, individualist anarchism represents several traditions of thought within the anarchist movement that emphasize the individual and their will over any kinds of external determinants such as groups, society, traditions and ideological systems.[44][45] Individualist anarchism is not a single philosophy but refers to a group of individualistic philosophies that sometimes are in conflict.
 
@@ -94,37 +67,6 @@ Main article: Autarchism
 
 Autarchism promotes the principles of individualism, the moral ideology of individual liberty and self-reliance whilst rejecting compulsory government and supporting the elimination of government in favor of ruling oneself to the exclusion of rule by others. Robert LeFevre, recognized as an autarchist by anarcho-capitalist Murray Rothbard,[75] distinguished autarchism from anarchy, whose economics he felt entailed interventions contrary to freedom in contrast to his own laissez-faire economics of the Austrian School.[76]
 Liberalism
-Main article: Liberalism
-Part of a series on
-Liberalism
-History
-
-Principles
-
-Schools
-
-Intellectuals
-
-Politicians
-
-Organizations
-
-Regional variants
-
-Related topics
-
-    Abortion debate
-        Pro-Choice Anti-authoritarianism Anti-clericalism Anti-communism Bias in American academia Bias in the media Capitalism
-        Democratic Centrism
-        Radical Economic freedom Egalitarianism Empiricism Humanism Individualism
-        Anarchist Land value tax Liberal autocracy Liberal conservatism Feminist
-        Equity Internationalist Libertarianism
-        Left Right Pirate Party Progressivism Sexually liberal feminism Utilitarianism
-
-    icon Liberalism portal
-    icon Politics portal
-
-    vte
 
 Liberalism is the belief in the importance of individual freedom. This belief is widely accepted in the United States, Europe, Australia and other Western nations, and was recognized as an important value by many Western philosophers throughout history, in particular since the Enlightenment. It is often rejected by collectivist ideas such as in Abrahamic or Confucian societies, although Taoists were and are known to be individualists.[77] The Roman Emperor Marcus Aurelius wrote praising "the idea of a polity administered with regard to equal rights and equal freedom of speech, and the idea of a kingly government which respects most of all the freedom of the governed".[78]
 
