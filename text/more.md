@@ -1,5 +1,5 @@
 ---
-permalink: philophsers
+permalink: /philosopher
 ---
 
 # Overview of the Ewoudje Wiki
@@ -42,9 +42,6 @@ If you're Ewoudje sharing this for feedback, it's a riot – the pasta-code fusi
 
 # Important information:
 
-### NO jalowin, NO tri con tri, NO kandi. NO tocar puerta COÑO
-### Remember kids, you can't spell slaughter without laughter!
-### we're all cam girls in a surveillance state
 
 god [mod](https://mods.vintagestory.at/tarmod)
 
@@ -71,11 +68,6 @@ This is a accurate site that describes everything you need to know about [ewoudj
 The best [best programmer](/god/whisp)!
 [And X sucks](/god/saga)
 
-I'm moneymancer. only spell is summon dollar
-🫪 unicode 17.0 is out
-Error; RnVycnk= <true>
-am so sleepby eepy oughh;:;:;:
-practicing witchcraft
 
 Buy Me a Coffee is a simple, meaningful way to fund your creative work.
 And ewoudje is god
